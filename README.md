@@ -17,4 +17,4 @@
   <img align="center" height="60" Widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
 </div>
 
-![snake gif](https://github.com/your-user-name/Spexxl/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Spexxl/Spexxl/blob/output/github-contribution-grid-snake.gif)
