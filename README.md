@@ -8,7 +8,7 @@
 ##
 
 <div>
-  <a href="google.com"target="_blank"><img align="center" height="60" Widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><a/>
+  <a href="www.google.com"target="_blank"><img align="center" height="60" Widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><a/>
   <img align="center" height="60" Widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="60" Widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="60" Widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
