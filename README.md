@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Back-End developer.<h1/>
+  <h1>Full-Stack Developer.<h1/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spexxl&theme=midnight-purple&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spexxl&layout=compact&theme=midnight-purple"/>
 </div>
