@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  Languages/Frameworks:<br/><br/>
+  Languages/Frameworks<br/><br/>
   <img align="center" height="60" Widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" height="60" Widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="60" Widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
